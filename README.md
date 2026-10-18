@@ -23,7 +23,9 @@
 With the increasing availability of technology, the number of available applications on the market is also growing. Despite this, there are currently **relatively few** applications supporting sign language learning. This led to the idea of ​​developing such software, inspired by well-known apps like Duolingo, which motivate users to learn through **experience points, user progress level, and various learning modes**. The project aims to increase the accessibility of sign language learning options and to influence motivation to practice through the use of **gamification** elements.
 
 **SignWise** is an AI-powered educational app. The program we developed enables real-time feedback by implementing a classification model that utilizes a camera to determine whether the displayed sign is correct.
-
+<p align="center">
+  <img width="237" height="534" alt="image" src="https://github.com/user-attachments/assets/a4ae7853-0327-400e-ace6-4c7cab5e5272" />
+</p>
 <!-- PROJECT SCREENSHOT HERE:D + DESCRIPTION OF FEATURES ETC -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -43,10 +45,18 @@ With the increasing availability of technology, the number of available applicat
     - saved user progress (experience points -> level progression)
     - ability to change username
     - ability to reset experience progress
+<p align="center">    
+  <img width="245" height="511" alt="image" src="https://github.com/user-attachments/assets/429674cc-e823-4e29-86a1-0173c81f1d8b" />
+</p>
+
 ### **2. 📚 Learning mode**
 
     - scrolling list of alphabet or numbers that allows users to explore ASL signs before testing themselves,
       making it easier for beginners to understand and revisit how individual signs are performed
+<p align="center">  
+  <img width="234" height="517" alt="image" src="https://github.com/user-attachments/assets/85bfd70d-8cc1-4ffd-a47b-dcd0b52c38a2" />
+</p>
+
 ### **3. FOUR testing modes where you can get experience points:**
 
   **a) 🕹️ Quiz**
@@ -54,6 +64,10 @@ With the increasing availability of technology, the number of available applicat
         - 3 categories to choose from: alphabet, numbers & mixed mode
         - sets of 10 questions with 4 answer options each
         - set completion pop-up displaying the score and options to replay with a new set or return to the main menu
+<p align="center">  
+  <img width="492" height="492" alt="image" src="https://github.com/user-attachments/assets/cad00f71-e145-4860-b0de-e5b1a0ab6bfd" />
+</p>
+
    **b) 🃏 Flashcards**
   
         - 3 categories to choose from: alphabet, numbers & personal favourites - you decide which flashcards make the list
@@ -62,12 +76,20 @@ With the increasing availability of technology, the number of available applicat
             - back to the menu
             - "still learning" flashcards repetition
             - whole set repetition
+<p align="center"> 
+  <img width="582" height="388" alt="image" src="https://github.com/user-attachments/assets/4d7572c2-3c74-47fd-b9d9-1dfe8a284132" />
+</p>
+
    **c) 🧩 Match Game**
   
         - 3 categories to choose from: alphabet, numbers & mixed mode
         - time-based gameplay - beat your personal best!
         - smooth matching animations for better user experience
         - set completion pop-up showing completion time with options to play again using a new set or navigate back to the main menu
+<p align="center">  
+  <img width="607" height="379" alt="image" src="https://github.com/user-attachments/assets/31777bcc-a356-4ec7-bcea-79f775dacb61" />
+</p>
+
    **d) 🤖 AI Camera**
   
         - real-time ASL sign recognition using the device camera
@@ -75,6 +97,9 @@ With the increasing availability of technology, the number of available applicat
             - the app prompts the user to perform a specific sign
             - live gesture analysis with instant correctness feedback
             - current prediction hint highlighting incorrect hand position or movement
+<p align="center">
+  <img width="196" height="414" alt="image" src="https://github.com/user-attachments/assets/cc890dcc-eed1-4f1a-a47d-19feaa8ed5d5" />
+ </p>
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
